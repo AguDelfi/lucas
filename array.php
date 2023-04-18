@@ -4,7 +4,7 @@ $datos[0]="lunes";
 $datos[1]="martes";
 $datos[2]="miercoles";
 $datos[3]="jueves";
-$datos[4]="viernes";
+$datos[4]="viernes";aaasasa
 $datos[5]="sabado";
 $datos[6]="domingo";
 print_r($datos);
