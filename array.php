@@ -21,6 +21,6 @@ echo $tamano;
 for($a=0;$a<6;$a++){
     echo $a."<br>";
    
-    echo $tamano."<br>";
+    echo $tamano."<bghgjhgjhr>"
     echo $datos[$a];
 }
