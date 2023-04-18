@@ -12,7 +12,7 @@ echo "los dias de la semana son:"."<br>";
 for($a=0;$a<=6;$a++){
     echo $datos[$a]."<br>";
 }
-unset($datos[2]);
+unset($datos[2]);kjjjnbvbnvbn
 print_r($datos);
 sort($datos);
 print_r($datos);
